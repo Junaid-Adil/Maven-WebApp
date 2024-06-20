@@ -1,12 +1,10 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Ashok IT - Software Training Institute <font></h1>
-
-<a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
+<h1><font color='black'> Hello, This is Junaid! <font></h1>
   
-  <h2> Call Us : + 9985396677</h2>
+  <h2> Iam from Hyderabad</h2>
   
-  <h3> Ofc Location : Ameerpet, Hyderbad </h3>
+  <h3> Taking DevOps Training in StarAgile </h3>
 
 </body>
 </html>
